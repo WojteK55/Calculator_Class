@@ -1,0 +1,16 @@
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.exe
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.deps.json
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.runtimeconfig.json
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.dll
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\ref\calculator_class.dll
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\bin\Debug\net5.0\calculator_class.pdb
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.dll
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\ref\calculator_class.dll
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.pdb
+C:\Users\Даниил\source\repos\calculator_class\calculator_class\obj\Debug\net5.0\calculator_class.genruntimeconfig.cache
